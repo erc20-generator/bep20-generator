@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://bep20.github.io/</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/index.html</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/bep20-generator/</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/polygon-generator/</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/watch-token/</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/bep20-generator/index.html</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/bep20-generator/create-token/index.html</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/polygon-generator/create-token/index.html</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/erc20-generator/index.html</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/polygon-generator/index.html</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/erc20-generator/docs/index.html</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/bep20-generator/docs/index.html</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/polygon-generator/docs/index.html</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/token-generator/tutorials/index.html</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bep200.github.io/eth-token-recover/index.html</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bep20bep20bep20.github.io/watch-token/index.html</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bep20bep20.github.io/watch-token/create/</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/watch-token/create/?network=bsc_mainnet</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/watch-token/create/?network=polygon_mainnet</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/erc20-generator/</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/token-generator/index.html</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/token-generator/docs/how-to-create-erc20-token/index.html</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/token-generator/docs/how-to-create-bep20-token/index.html</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://bep20.github.io/token-generator/docs/how-to-create-polygon-erc20-token/index.html</loc>
+  <lastmod>2022-01-24T15:56:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
